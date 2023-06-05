@@ -1,0 +1,46 @@
+.layout {
+    width: 100%;
+
+    max-width: 1024px;
+
+    margin: auto;
+
+    background-color: white;
+
+    border-collapse: collapse;
+}
+
+.layout tr td {
+    padding: 2rem;
+
+    vertical-align: top;
+
+    border: solid 5px gray;
+}
+
+.header {
+    font-size: 2rem;
+}
+
+.footer {
+    text-align: center;
+}
+
+.sidebarHeader {
+    font-size: 2rem;
+}
+
+.sidebar {
+    width: 18.75rem;
+}
+
+.sidebar ul {
+    padding-left: 2rem;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: darkblue;
+}
+
